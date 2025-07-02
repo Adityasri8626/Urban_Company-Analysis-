@@ -163,4 +163,4 @@ An interactive Power BI dashboard was built with:
 ## 👤 Author
 
 **Aditya Srivastava**  
-[GitHub](https://github.com/Adityasri8626) | [LinkedIn](https://www.linkedin.com/in/adityasrivastava26)
+[GitHub](https://github.com/Adityasri8626) | [LinkedIn](https://www.linkedin.com/in/aditya-srivastava8626/)
