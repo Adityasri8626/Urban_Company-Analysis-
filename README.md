@@ -161,10 +161,6 @@ Aditya Srivastava
 
 ---
 
-👉 Just place your **workflow diagram** (`workflow.png`) and **dashboard screenshot** (`dashboard.png`) inside an `assets/` folder in your repo.  
-GitHub will automatically render them in the README.  
-
-Would you like me to **design a clean workflow diagram (PNG)** for you, so you don’t have to make it yourself?
 
 
 
