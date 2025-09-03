@@ -8,7 +8,7 @@ The analysis focuses on **service demand, cost structures, and city-wise growth 
 
 ## 🖼️ Project Workflow  
 
-![Project Workflow](Images/ChatGPT_Image.png)  
+![Project Workflow](Images/work.png)  
 *Data pipeline: Raw Data → Cleaning (Excel/Python) → SQL Analysis → Power BI Dashboard → Insights & Impact*  
 
 ---
